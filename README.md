@@ -111,6 +111,3 @@ Summary: GenAI is being applied to medical documentation, patient interaction...
 Sources: [DuckDuckGo, Wikipedia]
 Tools Used: ['search_tool', 'wiki_tool']
 ```
-
-
-Do you want me to also **write the README.md file itself with code blocks** so you can directly push it to your repo?
